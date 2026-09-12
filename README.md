@@ -72,7 +72,7 @@ pip install numpy matplotlib
 Run the main program:
 
 ```bash
-python pso.py
+python psocode.py
 ```
 
 The program performs PSO based circuit parameter optimization and evaluates the achievable data rate.
