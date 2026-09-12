@@ -51,11 +51,9 @@ The detailed mathematical model, algorithm description and experimental analysis
 ```text
 PSO Based IRS Circuit Optimization
 |
-|-- pso.py
-|-- Project_PhaseShift_Model.pdf
-|-- Project_ElectronicIT.pdf
-|-- Update_Project_Elect_IT.pdf
-|-- PSO.pdf
+|-- psocode.py # Main Python script for PSO implementation
+|-- Project_PhaseShift_Model.pdf # reference paper
+|-- optimization_method_descritption.pdf # Detailed methodology, workflow, and results
 |-- README.md
 ```
 
